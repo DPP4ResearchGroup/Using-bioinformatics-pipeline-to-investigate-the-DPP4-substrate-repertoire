@@ -4299,3 +4299,15 @@
   title = {{Dipeptidyl-peptidase {IV} ({CD}26)-role in the inactivation of regulatory peptides}},
   journal = {Regulatory Peptides},
 }
+
+
+@incollection{Abbott_2002,
+  doi = {10.1007/978-1-4615-0619-5_7},
+  url = {https://doi.org/10.1007%2F978-1-4615-0619-5_7},
+  year = {2002},
+  publisher = {Springer Nature},
+  pages = {171--195},
+  author = {Catherine A. Abbott and Mark D. Gorrell},
+  title = {{The Family of {CD}26/{DPIV} and Related Ectopeptidases}},
+  booktitle = {Ectopeptidases},
+}
