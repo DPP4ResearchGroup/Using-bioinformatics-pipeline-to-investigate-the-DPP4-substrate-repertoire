@@ -4359,3 +4359,19 @@
   pages = {3774-82},
   pubmed_id = {10725737},
 }
+
+
+@article{23160239,
+  title = {{Dipeptidylpeptidase 4 negatively regulates colony-stimulating factor activity and stress hematopoiesis.}},
+  date = {2012 Dec},
+  source = {Nat Med},
+  authors = {Broxmeyer, HE and Hoggatt, J and O'Leary, HA and Mantel, C and Chitteti, BR and Cooper, S and Messina-Graham, S and Hangoc, G and Farag, S and Rohrabaugh, SL and Ou, X and Speth, J and Pelus, LM and Srour, EF and Campbell, TB},
+  author = {Broxmeyer, HE and Hoggatt, J and O'Leary, HA and Mantel, C and Chitteti, BR and Cooper, S and Messina-Graham, S and Hangoc, G and Farag, S and Rohrabaugh, SL and Ou, X and Speth, J and Pelus, LM and Srour, EF and Campbell, TB},
+  year = {2012},
+  month = {Dec},
+  journal = {Nat Med},
+  volume = {18},
+  number = {},
+  pages = {1786-96},
+  pubmed_id = {23160239},
+}
