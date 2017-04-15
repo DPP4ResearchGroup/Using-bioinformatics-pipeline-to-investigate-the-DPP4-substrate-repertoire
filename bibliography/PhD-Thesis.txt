@@ -4343,3 +4343,19 @@
   pages = {10418-25},
   pubmed_id = {12173928},
 }
+
+
+@article{10725737,
+  title = {{Identification of unique truncated KC/GRO beta chemokines with potent hematopoietic and anti-infective activities.}},
+  date = {2000 Apr 1},
+  source = {J Immunol},
+  authors = {King, AG and Johanson, K and Frey, CL and DeMarsh, PL and White, JR and McDevitt, P and McNulty, D and Balcarek, J and Jonak, ZL and Bhatnagar, PK and Pelus, LM},
+  author = {King, AG and Johanson, K and Frey, CL and DeMarsh, PL and White, JR and McDevitt, P and McNulty, D and Balcarek, J and Jonak, ZL and Bhatnagar, PK and Pelus, LM},
+  year = {2000},
+  month = {Apr},
+  journal = {J Immunol},
+  volume = {164},
+  number = {},
+  pages = {3774-82},
+  pubmed_id = {10725737},
+}
