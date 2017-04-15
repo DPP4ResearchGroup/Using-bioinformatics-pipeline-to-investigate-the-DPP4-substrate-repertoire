@@ -4311,3 +4311,19 @@
   title = {{The Family of {CD}26/{DPIV} and Related Ectopeptidases}},
   booktitle = {Ectopeptidases},
 }
+
+
+@article{18606664,
+  title = {{Inhibition of CD26/dipeptidyl peptidase IV enhances CCL11/eotaxin-mediated recruitment of eosinophils in vivo.}},
+  date = {2008 Jul 15},
+  source = {J Immunol},
+  authors = {Forssmann, U and Stoetzer, C and Stephan, M and Kruschinski, C and Skripuletz, T and Schade, J and Schmiedl, A and Pabst, R and Wagner, L and Hoffmann, T and Kehlen, A and Escher, SE and Forssmann, WG and Elsner, J and von, Hörsten S},
+  author = {Forssmann, U and Stoetzer, C and Stephan, M and Kruschinski, C and Skripuletz, T and Schade, J and Schmiedl, A and Pabst, R and Wagner, L and Hoffmann, T and Kehlen, A and Escher, SE and Forssmann, WG and Elsner, J and von, Hörsten S},
+  year = {2008},
+  month = {Jul},
+  journal = {J Immunol},
+  volume = {181},
+  number = {},
+  pages = {1120-7},
+  pubmed_id = {18606664},
+}
