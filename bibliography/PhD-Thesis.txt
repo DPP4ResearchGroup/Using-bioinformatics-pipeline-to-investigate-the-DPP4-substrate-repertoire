@@ -4327,3 +4327,19 @@
   pages = {1120-7},
   pubmed_id = {18606664},
 }
+
+
+@article{12173928,
+  title = {{The CXCR3 binding chemokine IP-10/CXCL10: structure and receptor interactions.}},
+  date = {2002 Aug 20},
+  source = {Biochemistry},
+  authors = {Booth, V and Keizer, DW and Kamphuis, MB and Clark-Lewis, I and Sykes, BD},
+  author = {Booth, V and Keizer, DW and Kamphuis, MB and Clark-Lewis, I and Sykes, BD},
+  year = {2002},
+  month = {Aug},
+  journal = {Biochemistry},
+  volume = {41},
+  number = {},
+  pages = {10418-25},
+  pubmed_id = {12173928},
+}
