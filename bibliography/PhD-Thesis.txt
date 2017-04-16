@@ -4391,3 +4391,19 @@
   pages = {81-9},
   pubmed_id = {23000011},
 }
+
+
+@article{12167864,
+  title = {{Gut hormone PYY(3-36) physiologically inhibits food intake.}},
+  date = {2002 Aug 8},
+  source = {Nature},
+  authors = {Batterham, RL and Cowley, MA and Small, CJ and Herzog, H and Cohen, MA and Dakin, CL and Wren, AM and Brynes, AE and Low, MJ and Ghatei, MA and Cone, RD and Bloom, SR},
+  author = {Batterham, RL and Cowley, MA and Small, CJ and Herzog, H and Cohen, MA and Dakin, CL and Wren, AM and Brynes, AE and Low, MJ and Ghatei, MA and Cone, RD and Bloom, SR},
+  year = {2002},
+  month = {Aug},
+  journal = {Nature},
+  volume = {418},
+  number = {},
+  pages = {650-4},
+  pubmed_id = {12167864},
+}
