@@ -4487,3 +4487,19 @@
   pages = {22418-23},
   pubmed_id = {12690116},
 }
+
+
+@article{15491793,
+  title = {{Secretion of incretin hormones (GIP and GLP-1) and incretin effect after oral glucose in first-degree relatives of patients with type 2 diabetes.}},
+  date = {2004 Nov 15},
+  source = {Regul Pept},
+  authors = {Nauck, MA and El-Ouaghlidi, A and Gabrys, B and Hücking, K and Holst, JJ and Deacon, CF and Gallwitz, B and Schmidt, WE and Meier, JJ},
+  author = {Nauck, MA and El-Ouaghlidi, A and Gabrys, B and Hücking, K and Holst, JJ and Deacon, CF and Gallwitz, B and Schmidt, WE and Meier, JJ},
+  year = {2004},
+  month = {Nov},
+  journal = {Regul Pept},
+  volume = {122},
+  number = {},
+  pages = {209-17},
+  pubmed_id = {15491793},
+}
