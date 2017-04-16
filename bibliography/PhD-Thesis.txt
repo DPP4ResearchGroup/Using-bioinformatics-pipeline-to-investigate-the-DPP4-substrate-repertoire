@@ -4439,3 +4439,19 @@
   pages = {323-33},
   pubmed_id = {20380653},
 }
+
+
+@article{12442257,
+  title = {{The spectrum of endogenous human chromogranin A-derived peptides identified using a modified proteomic strategy.}},
+  date = {2002 Nov},
+  source = {Proteomics},
+  authors = {Orr, DF and Chen, T and Johnsen, AH and Chalk, R and Buchanan, KD and Sloan, JM and Rao, P and Shaw, C},
+  author = {Orr, DF and Chen, T and Johnsen, AH and Chalk, R and Buchanan, KD and Sloan, JM and Rao, P and Shaw, C},
+  year = {2002},
+  month = {Nov},
+  journal = {Proteomics},
+  volume = {2},
+  number = {},
+  pages = {1586-600},
+  pubmed_id = {12442257},
+}
