@@ -4503,3 +4503,19 @@
   pages = {209-17},
   pubmed_id = {15491793},
 }
+
+
+@article{15013843,
+  title = {{Discovery of novel peptide/receptor interactions: identification of PHM-27 as a potent agonist of the human calcitonin receptor.}},
+  date = {2004 Apr 1},
+  source = {Biochem Pharmacol},
+  authors = {Ma, JN and Currier, EA and Essex, A and Feddock, M and Spalding, TA and Nash, NR and Brann, MR and Burstein, ES},
+  author = {Ma, JN and Currier, EA and Essex, A and Feddock, M and Spalding, TA and Nash, NR and Brann, MR and Burstein, ES},
+  year = {2004},
+  month = {Apr},
+  journal = {Biochem Pharmacol},
+  volume = {67},
+  number = {},
+  pages = {1279-84},
+  pubmed_id = {15013843},
+}
