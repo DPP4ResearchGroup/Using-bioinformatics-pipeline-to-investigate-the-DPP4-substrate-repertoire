@@ -4455,3 +4455,19 @@
   pages = {1586-600},
   pubmed_id = {12442257},
 }
+
+
+@article{12039843,
+  title = {{Loss of dipeptidylpeptidase IV activity in chronic rhinosinusitis contributes to the neurogenic inflammation induced by substance P in the nasal mucosa.}},
+  date = {2002 Jul},
+  source = {FASEB J},
+  authors = {Grouzmann, E and Monod, M and Landis, B and Wilk, S and Brakch, N and Nicoucar, K and Giger, R and Malis, D and Szalay-Quinodoz, I and Cavadas, C and Morel, DR and Lacroix, JS},
+  author = {Grouzmann, E and Monod, M and Landis, B and Wilk, S and Brakch, N and Nicoucar, K and Giger, R and Malis, D and Szalay-Quinodoz, I and Cavadas, C and Morel, DR and Lacroix, JS},
+  year = {2002},
+  month = {Jul},
+  journal = {FASEB J},
+  volume = {16},
+  number = {},
+  pages = {1132-4},
+  pubmed_id = {12039843},
+}
