@@ -4407,3 +4407,19 @@
   pages = {650-4},
   pubmed_id = {12167864},
 }
+
+
+@article{16802131,
+  title = {{Effects of dipeptidyl peptidase IV on the satiety actions of peptide YY.}},
+  date = {2006 Aug},
+  source = {Diabetologia},
+  authors = {Unniappan, S and McIntosh, CH and Demuth, HU and Heiser, U and Wolf, R and Kieffer, TJ},
+  author = {Unniappan, S and McIntosh, CH and Demuth, HU and Heiser, U and Wolf, R and Kieffer, TJ},
+  year = {2006},
+  month = {Aug},
+  journal = {Diabetologia},
+  volume = {49},
+  number = {},
+  pages = {1915-23},
+  pubmed_id = {16802131},
+}
