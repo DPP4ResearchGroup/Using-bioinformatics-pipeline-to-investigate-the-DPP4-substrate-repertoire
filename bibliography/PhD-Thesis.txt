@@ -4519,3 +4519,13 @@
   pages = {1279-84},
   pubmed_id = {15013843},
 }
+
+
+@techreport{RN822,
+  author = {FDA},
+  title = {{FDA Approves New Treatment for Diabetes}},
+  month = {October 17, 2006},
+  url = {http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2006/ucm108770.htm},
+  year = {2006},
+  type = {Report},
+}
