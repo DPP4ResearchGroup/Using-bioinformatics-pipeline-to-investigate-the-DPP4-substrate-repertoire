@@ -4423,3 +4423,19 @@
   pages = {1915-23},
   pubmed_id = {16802131},
 }
+
+
+@article{20380653,
+  title = {{Twelve weeks treatment with the DPP-4 inhibitor, sitagliptin, prevents degradation of peptide YY and improves glucose and non-glucose induced insulin secretion in patients with type 2 diabetes mellitus.}},
+  date = {2010 Apr},
+  source = {Diabetes Obes Metab},
+  authors = {Aaboe, K and Knop, FK and Vilsbøll, T and Deacon, CF and Holst, JJ and Madsbad, S and Krarup, T},
+  author = {Aaboe, K and Knop, FK and Vilsbøll, T and Deacon, CF and Holst, JJ and Madsbad, S and Krarup, T},
+  year = {2010},
+  month = {Apr},
+  journal = {Diabetes Obes Metab},
+  volume = {12},
+  number = {},
+  pages = {323-33},
+  pubmed_id = {20380653},
+}
