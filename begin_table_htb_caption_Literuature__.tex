@@ -8,7 +8,7 @@
     \hline
     \ Categories & Substrates & UniProt ID & N-terminal Seq & Size(aa) \textendash\, Start, End& \textit{In vivo} OR \textit{In vitro} & Biophysiological effects upon cleavage & Half-life (Average) & References \\
     \hline
-    \multirow{15}{*}{Immune Response} & CXCL2 & P19875 & AP \textbar\; LATELRCQCL & 75 \textendash\, 35,107 & \textit{In vitro} & Increased hematopoietic activity & \textendash & \cite{10725737,  Ajami:2008oz} \\
+    \multirow{19}{*}{Immune Response} & CXCL2 & P19875 & AP \textbar\; LATELRCQCL & 75 \textendash\, 35,107 & \textit{In vitro} & Increased hematopoietic activity & \textendash & \cite{10725737,  Ajami:2008oz} \\
     \hline
     & CXCL6 / GCP-2 & P80162 & GP \textbar\; VSAVLTELR & 77 \textendash\, 38,114 & \textit{In vitro} & Inactivation & \textendash & \cite{Proost:1998kl} \\
     \hline 
@@ -18,17 +18,21 @@
     \hline
     & CXCL11 / IP-9 / I-TAC & O14625 & FP \textbar\; MFKRGRCL & 72 \textendash\, 22,94 & \textit{In vitro} & Inactivation; Reduced chemotactic potential via CXCR3 signaling & 2 mins & \cite{Proost:1998kl, Lambeir:2001ab, Ludwig:2002aa} \\
     \hline 
-    & CXCL12 / SDF1 & P48061 & KP \textbar\; VS \textbar\; LSYRCP & 69(67) \textendash\, 22(24),88 & \textit{In vitro} & Inactivation; Reduced chemotactic potential via CXCR4 signaling & \textless 1 mins & \cite{Proost:1998kl, Shioda:1998aa, Lambeir:2001ab} \\
+    & CXCL12 / SDF1 & \multirow{2}{*}{P48061} & KP \textbar\; VSLSYRCP & 69 \textendash\, 22,88 & \multirow{2}{*}{\textit{In vitro}} & \multirow{2}{*}{Inactivation}; \multirow{2}{*}{Reduced chemotactic potential via CXCR4 signaling} & \multirow{2}{*}{\textless 1 mins} & \multirow{2}{*}{\cite{Proost:1998kl, Shioda:1998aa, Lambeir:2001ab}} \\
+    & SDF1-\alpha / SDF1-\beta & & VS \textbar\; LSYRCP & 67 \textendash\, 24,88 & & & & \\ 
     \hline 
-    & CCL5 / RANTES & P13501 & SP \textbar\; YS \textbar\; SDTTPC & 67(65) \textendash\, 24(26),91  & \textit{In vitro} & Altered receptor specificity; preferentially binds to CCR5 instead of CCR1 & 400 mins & \cite{Oravecz:1997aa, Lambeir:2001ab} \\
+    & CCL3L1 / MIP  & \multirow{2}{*}{P16619} & AP \textbar\; LAADTPTAC & 70 \textendash\, 24,93 & \multirow{2}{*}{\textit{In vitro}} & \multirow{2}{*}{Inactivation; Increased chemotactic potential via CCR1 and CCR5 signaling} & \multirow{2}{*}{6000 mins} & \multirow{2}{*}{\cite{Proost:1998kl,Lambeir:2001ab}} \\
+    & LD78\beta & & LA \textbar\; ADTPTAC & 68 \textendash\, 26,93 & & & & \\
+    \hline 
+    & CCL5 & \multirow{2}{*}{P13501} & SP \textbar\; YSSDTTPC & 67 \textendash\, 24,91  & \multirow{2}{*}{\textit{In vitro}} & \multirow{2}{*}{Altered receptor specificity; preferentially binds to CCR5 instead of CCR1} & \multirow{2}{*}{400 mins} & \multirow{2}{*}{\cite{Oravecz:1997aa, Lambeir:2001ab}} \\
+    & RANTES & & YS \textbar\; SDTTPC & 65 \textendash\, 26,91 & & & & \\
     \hline 
     & CCL11 / Eotaxin & P51671 & GP \textbar\; ASVPTTCCF & 74 \textendash\, 24, 97 & \textit{In vitro} & Inactivation; Reduced chemotactic potential via CCR3 signaling & 30 mins & \cite{Lambeir:2001ab, Struyf:1999aa, Ajami:2008oz, 18606664} \\
     \hline 
     & CCL22 / MDC & O00626 & GP \textbar\; YGANMEDS & 69 \textendash\, 25,93 & \textit{In vitro} & Inactivation; Reduced chemotactic potential via CCR4 signaling & 1.6 \textbar\, 5.5 mins & \cite{Lambeir:2001ab} \\
     \hline 
-    & CCL3L1 / MIP / LD78\beta & P16619 & AP \textbar\; LA \textbar\; ADTPTAC & 70(68) \textendash\, 24(26),93 & \textit{In vitro} & Inactivation; Increased chemotactic potential via CCR1 and CCR5 signaling & 6000 mins & \cite{Proost:1998kl,Lambeir:2001ab} \\
-    \hline 
-    & MIP1\alpha / LD78\alpha &  P10147 & AD \textbar\; TP \textbar\; TACCFSY & 68(66) \textendash\, 27(29),92 & \textit{In vitro} & No reported effect & \textendash & \cite{Proost:1998kl} \\
+    & \multirow{2}{*}{MIP1\alpha / LD78\alpha} &  \multirow{2}{*}{P10147} & AD \textbar\; TPTACCFSY & 68 \textendash\, 27,92 & \multirow{2}{*}{\textit{In vitro}} & \multirow{2}{*}{No reported effect} & \multirow{2}{*}{\textendash} & \multirow{2}{*}{\cite{Proost:1998kl}} \\
+    & & & TP \textbar\; TACCFSY & 66 \textendash\, 29,92 & & & & \\
     \hline 
     & Erythropoiethin & P01588 & AP \textbar\; PRLICDSRVLE & 168 \textendash\, 28,193 & \textit{In vivo} & Inhibtion; reduced reticulate response & \textendash & \cite{23160239} \\
     \hline 
