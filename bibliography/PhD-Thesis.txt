@@ -4471,3 +4471,19 @@
   pages = {1132-4},
   pubmed_id = {12039843},
 }
+
+
+@article{12690116,
+  title = {{The role of dipeptidyl peptidase IV in the cleavage of glucagon family peptides: in vivo metabolism of pituitary adenylate cyclase activating polypeptide-(1-38).}},
+  date = {2003 Jun 20},
+  source = {J Biol Chem},
+  authors = {Zhu, L and Tamvakopoulos, C and Xie, D and Dragovic, J and Shen, X and Fenyk-Melody, JE and Schmidt, K and Bagchi, A and Griffin, PR and Thornberry, NA and Sinha, Roy R},
+  author = {Zhu, L and Tamvakopoulos, C and Xie, D and Dragovic, J and Shen, X and Fenyk-Melody, JE and Schmidt, K and Bagchi, A and Griffin, PR and Thornberry, NA and Sinha, Roy R},
+  year = {2003},
+  month = {Jun},
+  journal = {J Biol Chem},
+  volume = {278},
+  number = {},
+  pages = {22418-23},
+  pubmed_id = {12690116},
+}
