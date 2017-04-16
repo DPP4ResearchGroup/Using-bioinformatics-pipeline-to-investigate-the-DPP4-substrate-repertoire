@@ -1,6 +1,6 @@
 abstract.tex
 section_Introduction_The_traditional_protein__.tex
-begin_table_caption_Literuature_summary__.tex
+begin_table_htb_centering_begin__.tex
 section_Methods_and_Materials_subsection__.tex
 figures/DPP4Method/DPP4Method.png
 section_Results_and_Discussion__.tex
