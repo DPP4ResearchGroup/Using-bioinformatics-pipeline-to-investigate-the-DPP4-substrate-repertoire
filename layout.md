@@ -10,6 +10,7 @@ figures/350px-Step_response_for_two-pole_feedback_amplifier/350px-Step_response_
 figures/1_fWNNA2YbsLSoA104K3Z3RA/1_fWNNA2YbsLSoA104K3Z3RA.png
 figures/19-Table3-1/19-Table3-1.png
 figures/Experimental-a-CS-and-b-KW-Vs-predicted-result-2-Predictive-Modeling-with-ANN-The_W640/Experimental-a-CS-and-b-KW-Vs-predicted-result-2-Predictive-Modeling-with-ANN-The_W640.png
+figures/chart/chart.png
 figures/amine/screenshot.png
 figures/Test/Test.png
 section_Conclusion_label_sec_Conclusion__.tex
