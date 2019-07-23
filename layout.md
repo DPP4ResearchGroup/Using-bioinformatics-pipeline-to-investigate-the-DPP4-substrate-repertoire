@@ -4,6 +4,5 @@ pagebreak_begin_landscape_begin_table__.tex
 section_Methods_and_Materials_subsection__.tex
 figures/DPP4Method/DPP4Method.png
 section_Results_and_Discussion_label__.tex
-Tables__.tex
 figures/350px-Step_response_for_two-pole_feedback_amplifier/350px-Step_response_for_two-pole_feedback_amplifier.png
 section_Conclusion_label_sec_Conclusion__.tex
