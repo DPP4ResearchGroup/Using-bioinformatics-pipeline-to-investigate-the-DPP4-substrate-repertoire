@@ -8,6 +8,7 @@ figures/Configuration-of-the-ANN-model-with-PSO_W640/Configuration-of-the-ANN-mo
 section_Results_and_Discussion_label__.tex
 figures/350px-Step_response_for_two-pole_feedback_amplifier/350px-Step_response_for_two-pole_feedback_amplifier.png
 figures/1_fWNNA2YbsLSoA104K3Z3RA/1_fWNNA2YbsLSoA104K3Z3RA.png
+figures/19-Table3-1/19-Table3-1.png
 figures/Experimental-a-CS-and-b-KW-Vs-predicted-result-2-Predictive-Modeling-with-ANN-The_W640/Experimental-a-CS-and-b-KW-Vs-predicted-result-2-Predictive-Modeling-with-ANN-The_W640.png
 figures/amine/screenshot.png
 figures/Test/Test.png
