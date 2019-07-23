@@ -4,6 +4,7 @@ pagebreak_begin_landscape_begin_table__.tex
 section_Methods_and_Materials_subsection__.tex
 figures/DPP4Method/DPP4Method.png
 subsection_Artifical_Neural_Network_Composition__.tex
+figures/Configuration-of-the-ANN-model-with-PSO_W640/Configuration-of-the-ANN-model-with-PSO_W640.png
 section_Results_and_Discussion_label__.tex
 figures/350px-Step_response_for_two-pole_feedback_amplifier/350px-Step_response_for_two-pole_feedback_amplifier.png
 section_Conclusion_label_sec_Conclusion__.tex
