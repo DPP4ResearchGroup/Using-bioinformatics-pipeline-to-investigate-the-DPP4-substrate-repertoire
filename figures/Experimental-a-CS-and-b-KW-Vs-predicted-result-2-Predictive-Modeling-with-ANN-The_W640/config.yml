@@ -1,5 +1,19 @@
-version: 1
+---
+version: 2
 multicolumn: false
 web-width: 500px
 align: center
 float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - url: "/users/74776/articles/165663/master/file/figures/Experimental-a-CS-and-b-KW-Vs-predicted-result-2-Predictive-Modeling-with-ANN-The_W640/Experimental-a-CS-and-b-KW-Vs-predicted-result-2-Predictive-Modeling-with-ANN-The_W640.png"
+    path: figures/Experimental-a-CS-and-b-KW-Vs-predicted-result-2-Predictive-Modeling-with-ANN-The_W640/Experimental-a-CS-and-b-KW-Vs-predicted-result-2-Predictive-Modeling-with-ANN-The_W640.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
